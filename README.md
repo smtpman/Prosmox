@@ -1,2 +1,2 @@
-# Prosmox
+# Proxmox
 Proxmox Docs and Scripts
